@@ -1,4 +1,4 @@
-👋 Hi, I’m @RJohnson716, lead software engineer and IT administrator for Stratos Aircraft, Inc.
+👋 Hi, I’m @RJohnson716, software engineer and IT administrator for Stratos Aircraft, Inc.
 
 💪 My strengths are:
 
@@ -10,4 +10,4 @@
 >
 >Automation
 
-🌱 I’m currently learning reverse engineering and machine learning.
+🌱 I’m currently learning C++.
